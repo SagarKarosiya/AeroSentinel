@@ -1,0 +1,3 @@
+hardware_config,flights_with_windows,total_windows,feature_columns,train_windows,val_windows,test_windows
+holybro,118,5881,237,4078,888,915
+speedybee,110,9919,209,6970,1405,1544

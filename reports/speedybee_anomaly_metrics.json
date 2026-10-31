@@ -1,0 +1,15 @@
+{
+    "hardware_config": "speedybee",
+    "training_windows": 6970,
+    "validation_windows": 1405,
+    "test_windows": 1544,
+    "initial_numeric_features": 210,
+    "selected_features": 210,
+    "anomaly_threshold": 0.5011530257218936,
+    "threshold_validation_percentile": 95,
+    "train_flagged": 419,
+    "validation_flagged": 71,
+    "test_flagged": 66,
+    "test_anomaly_rate_pct": 4.274611398963731,
+    "test_flights": 17
+}

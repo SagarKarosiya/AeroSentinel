@@ -1,0 +1,23 @@
+{
+    "selected_threshold_seconds": 121.18483958523802,
+    "validation_hybrid_mae_seconds": 13.285221933042921,
+    "validation_fallback_windows": 0,
+    "test_windows": 590,
+    "test_fallback_windows": 2,
+    "test_fallback_percentage": 0.3389830508474576,
+    "test_model": {
+        "MAE": 9.87374109570035,
+        "RMSE": 17.359368320891974,
+        "R2": 0.9975744917582674
+    },
+    "test_persistence": {
+        "MAE": 30.485302737288134,
+        "RMSE": 40.456346941313015,
+        "R2": 0.9868262854458538
+    },
+    "test_hybrid": {
+        "MAE": 10.29595364856967,
+        "RMSE": 19.051634353548607,
+        "R2": 0.9970785436993321
+    }
+}

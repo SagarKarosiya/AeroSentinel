@@ -1,0 +1,43 @@
+hardware_config,concept,raw_column,flights_with_values,flights_with_variation,flights_constant,total_valid_values,nonzero_values,global_min,global_max,flight_coverage_pct,dynamic_flight_pct,global_range
+speedybee,actuator_output,motor[0],110,110,0,2521028,2521028,1200.0,1808.0,100.0,100.0,608.0
+speedybee,actuator_output,servo[1],110,110,0,2521028,2521028,1407.0,1922.0,100.0,100.0,515.0
+speedybee,actuator_output,servo[2],110,110,0,2521028,2521028,1179.0,1993.0,100.0,100.0,814.0
+speedybee,actuator_output,servo[3],110,110,0,2521028,2521028,1179.0,1993.0,100.0,100.0,814.0
+speedybee,actuator_output,servo[4],110,110,0,2521028,2521028,1206.0,1817.0,100.0,100.0,611.0
+speedybee,altitude,BaroAlt (cm),110,110,0,2521028,2521028,2902.0,24442.0,100.0,100.0,21540.0
+speedybee,attitude,attitude[0],110,110,0,2521028,2499470,-563.0,545.0,100.0,100.0,1108.0
+speedybee,attitude,attitude[1],110,110,0,2521028,2511387,-279.0,193.0,100.0,100.0,472.0
+speedybee,attitude,attitude[2],110,110,0,2521028,2520952,0.0,3599.0,100.0,100.0,3599.0
+speedybee,battery,amperage (A),110,110,0,2521028,2521028,1.35,39.7,100.0,100.0,38.35
+speedybee,battery,energyCumulative (mAh),110,110,0,2521028,2521026,0.0,11577.0,100.0,100.0,11577.0
+speedybee,battery,vbat (V),110,110,0,2521028,2521028,12.47,35.856,100.0,100.0,23.386000000000003
+speedybee,imu_accel,accSmooth[0],110,110,0,2521028,2519807,-862.0,1136.0,100.0,100.0,1998.0
+speedybee,imu_accel,accSmooth[1],110,110,0,2521028,2509331,-830.0,472.0,100.0,100.0,1302.0
+speedybee,imu_accel,accSmooth[2],110,110,0,2521028,2521028,-1924.0,7117.0,100.0,100.0,9041.0
+speedybee,imu_gyro,gyroADC[0],110,110,0,2521028,2411704,-143.0,137.0,100.0,100.0,280.0
+speedybee,imu_gyro,gyroADC[1],110,110,0,2521028,2245541,-63.0,30.0,100.0,100.0,93.0
+speedybee,imu_gyro,gyroADC[2],110,110,0,2521028,2389584,-66.0,67.0,100.0,100.0,133.0
+speedybee,imu_gyro,gyroPeakPitch[0],110,110,0,2521028,2520741,0.0,231.0,100.0,100.0,231.0
+speedybee,imu_gyro,gyroPeakPitch[1],110,110,0,2521028,2511779,0.0,232.0,100.0,100.0,232.0
+speedybee,imu_gyro,gyroPeakPitch[2],110,110,0,2521028,2478449,0.0,234.0,100.0,100.0,234.0
+speedybee,imu_gyro,gyroPeakRoll[0],110,110,0,2521028,2499308,0.0,232.0,100.0,100.0,232.0
+speedybee,imu_gyro,gyroPeakRoll[1],110,110,0,2521028,2394917,0.0,233.0,100.0,100.0,233.0
+speedybee,imu_gyro,gyroPeakRoll[2],110,110,0,2521028,2221554,0.0,234.0,100.0,100.0,234.0
+speedybee,imu_gyro,gyroPeakYaw[0],110,110,0,2521028,2507425,0.0,231.0,100.0,100.0,231.0
+speedybee,imu_gyro,gyroPeakYaw[1],110,110,0,2521028,2425051,0.0,233.0,100.0,100.0,233.0
+speedybee,imu_gyro,gyroPeakYaw[2],110,110,0,2521028,2289014,0.0,234.0,100.0,100.0,234.0
+speedybee,imu_gyro,gyroRaw[0],110,110,0,2521028,2442535,-160.0,129.0,100.0,100.0,289.0
+speedybee,imu_gyro,gyroRaw[1],110,110,0,2521028,2437311,-89.0,70.0,100.0,100.0,159.0
+speedybee,imu_gyro,gyroRaw[2],110,110,0,2521028,2410378,-67.0,69.0,100.0,100.0,136.0
+speedybee,actuator_output,servo[6],110,12,98,2521028,2521028,1000.0,2000.0,100.0,10.909090909090908,1000.0
+speedybee,actuator_output,servo[0],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[10],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[11],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[12],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[13],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[14],110,0,110,2521026,2521026,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[15],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[5],110,0,110,2521028,2521028,2000.0,2000.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[7],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[8],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0
+speedybee,actuator_output,servo[9],110,0,110,2521028,2521028,1500.0,1500.0,100.0,0.0,0.0

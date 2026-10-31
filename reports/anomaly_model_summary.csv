@@ -1,0 +1,3 @@
+hardware_config,training_windows,validation_windows,test_windows,initial_numeric_features,selected_features,anomaly_threshold,threshold_validation_percentile,train_flagged,validation_flagged,test_flagged,test_anomaly_rate_pct,test_flights
+holybro,4078,888,915,238,238,0.5030854047727523,95,144,45,40,4.371584699453552,18
+speedybee,6970,1405,1544,210,210,0.5011530257218936,95,419,71,66,4.274611398963731,17

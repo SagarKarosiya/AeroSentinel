@@ -1,0 +1,17 @@
+{
+    "task": "Holybro battery remaining-time estimation",
+    "target": "time_remaining_s__battery_status_0",
+    "eligible_flights": 97,
+    "flights_in_dataset": 97,
+    "total_windows": 4755,
+    "split_windows": {
+        "test": 702,
+        "train": 3319,
+        "val": 734
+    },
+    "target_min_seconds": 768.4263,
+    "target_max_seconds": 2273.4638999999997,
+    "target_median_seconds": 1633.5785,
+    "removed_leakage_columns": [],
+    "excluded_windows": 0
+}

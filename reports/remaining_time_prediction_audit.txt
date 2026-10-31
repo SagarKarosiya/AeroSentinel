@@ -1,0 +1,7 @@
+REMAINING-TIME PREDICTION AUDIT
+Test windows: 702
+Test flights: 14
+Overall MAE: 3.4430 seconds
+Overall RMSE: 10.3164 seconds
+R2: 0.999139
+Flights with MAE above 10 seconds: 1

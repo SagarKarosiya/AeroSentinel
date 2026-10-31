@@ -1,0 +1,3 @@
+hardware_config,flight_id,duration_s,split,gps_available,telemetry_path,exclude,exclude_reason
+holybro,16,6.5,,True,data\processed\holybro\flight_16.parquet,True,degenerate/aborted flight (0-1 row or joint outlier on duration/altitude/current - see Stage 2 EDA)
+holybro,113,0.0,,True,data\processed\holybro\flight_113.parquet,True,degenerate/aborted flight (0-1 row or joint outlier on duration/altitude/current - see Stage 2 EDA)

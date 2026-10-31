@@ -1,0 +1,65 @@
+hardware_config,concept,raw_column,flights_total,flights_present,flights_with_values,flight_coverage_pct,total_rows,valid_values,value_coverage_pct,non_numeric_flights
+speedybee,battery,vbat (V),110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,battery,amperage (A),110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,battery,energyCumulative (mAh),110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,gps_position,GPS_coord[0],110,0,0,0.0,2521028,0,0.0,0
+speedybee,gps_position,GPS_coord[1],110,0,0,0.0,2521028,0,0.0,0
+speedybee,gps_position,GPS_home_lat,110,0,0,0.0,2521028,0,0.0,0
+speedybee,gps_position,GPS_home_lon,110,0,0,0.0,2521028,0,0.0,0
+speedybee,altitude,BaroAlt (cm),110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,altitude,GPS_altitude,110,0,0,0.0,2521028,0,0.0,0
+speedybee,speed,GPS_speed (m/s),110,0,0,0.0,2521028,0,0.0,0
+speedybee,attitude,attitude[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,attitude,attitude[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,attitude,attitude[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroADC[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroADC[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroADC[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroRaw[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroRaw[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroRaw[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakRoll[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakRoll[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakRoll[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakPitch[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakPitch[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakPitch[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakYaw[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakYaw[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_gyro,gyroPeakYaw[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_accel,accSmooth[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_accel,accSmooth[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,imu_accel,accSmooth[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,motor[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[3],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[4],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[5],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[6],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[7],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[8],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[9],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[10],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[11],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[12],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[13],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,actuator_output,servo[14],110,110,110,100.0,2521028,2521026,99.9999,0
+speedybee,actuator_output,servo[15],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcData[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcData[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcData[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcData[3],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcCommand[0],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcCommand[1],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcCommand[2],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,rc_input,rcCommand[3],110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,esc_motor_health,escRPM,110,102,102,92.73,2521028,2356629,93.4789,0
+speedybee,esc_motor_health,escTemperature,110,102,102,92.73,2521028,2356629,93.4789,0
+speedybee,health_link,rssi,110,110,110,100.0,2521028,2521028,100.0,0
+speedybee,health_link,failsafePhase (flags),110,102,1,0.91,2521028,14853,0.5892,101
+speedybee,health_link,rxSignalReceived,110,102,102,92.73,2521028,2356629,93.4789,0
+speedybee,health_link,hwHealthStatus,110,102,102,92.73,2521028,2356629,93.4789,0
+speedybee,temperature,IMUTemperature,110,102,102,92.73,2521028,2356629,93.4789,0
+speedybee,temperature,baroTemperature,110,102,102,92.73,2521028,2356629,93.4789,0

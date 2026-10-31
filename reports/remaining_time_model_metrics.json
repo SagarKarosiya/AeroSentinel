@@ -1,0 +1,18 @@
+{
+    "task": "Battery management remaining-time estimation",
+    "selected_model": "ExtraTrees",
+    "training_windows": 3319,
+    "validation_windows": 734,
+    "test_windows": 702,
+    "training_flights": 68,
+    "validation_flights": 15,
+    "test_flights": 14,
+    "features_used": 238,
+    "validation_mae_seconds": 3.8209821382856988,
+    "test_mae_seconds": 3.4429645688137733,
+    "test_mae_minutes": 0.05738274281356289,
+    "test_rmse_seconds": 10.316389426428328,
+    "test_r2": 0.999138555049072,
+    "test_median_baseline_mae_seconds": 303.5573581339031,
+    "interpretation": "Predicts the recorded battery-management remaining-time estimate, not actual time until flight termination."
+}

@@ -1,0 +1,17 @@
+{
+    "task": "30-second future battery remaining-time estimation",
+    "forecast_horizon_seconds": 30,
+    "actual_forecast_gap_seconds": 30.5,
+    "selected_model": "ExtraTrees",
+    "features_used": 238,
+    "train_windows": 2775,
+    "validation_windows": 614,
+    "test_windows": 590,
+    "test_flights": 14,
+    "model_test_mae_seconds": 9.873741095700348,
+    "model_test_rmse_seconds": 17.359368320891967,
+    "model_test_r2": 0.9975744917582674,
+    "persistence_test_mae_seconds": 30.485302737288134,
+    "beats_persistence": true,
+    "target_interpretation": "Future battery-management remaining-time estimate, not actual time until flight termination."
+}

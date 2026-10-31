@@ -1,0 +1,65 @@
+feature,flights_present,all_null_flights,total_rows,null_values,dtype,missing_percent,present_in_all_flights
+GPS_coord[0],110,8,2521028,164399,float64,6.521109642574379,True
+GPS_home_lon,110,8,2521028,164399,float64,6.521109642574379,True
+GPS_home_lat,110,8,2521028,164399,float64,6.521109642574379,True
+GPS_coord[1],110,8,2521028,164399,float64,6.521109642574379,True
+GPS_speed (m/s),110,8,2521028,164399,float64,6.521109642574379,True
+GPS_altitude,110,8,2521028,164399,int64,6.521109642574379,True
+servo[14],110,0,2521028,2,int64,7.933271665368254e-05,True
+energyCumulative (mAh),110,0,2521028,0,int64,0.0,True
+BaroAlt (cm),110,0,2521028,0,int64,0.0,True
+vbat (V),110,0,2521028,0,float64,0.0,True
+attitude[0],110,0,2521028,0,int64,0.0,True
+attitude[1],110,0,2521028,0,int64,0.0,True
+attitude[2],110,0,2521028,0,int64,0.0,True
+gyroADC[0],110,0,2521028,0,int64,0.0,True
+gyroADC[1],110,0,2521028,0,int64,0.0,True
+amperage (A),110,0,2521028,0,float64,0.0,True
+gyroRaw[0],110,0,2521028,0,int64,0.0,True
+gyroRaw[1],110,0,2521028,0,int64,0.0,True
+gyroRaw[2],110,0,2521028,0,int64,0.0,True
+gyroPeakRoll[0],110,0,2521028,0,int64,0.0,True
+gyroPeakRoll[1],110,0,2521028,0,int64,0.0,True
+gyroPeakRoll[2],110,0,2521028,0,int64,0.0,True
+gyroPeakPitch[0],110,0,2521028,0,int64,0.0,True
+gyroPeakPitch[1],110,0,2521028,0,int64,0.0,True
+gyroPeakPitch[2],110,0,2521028,0,int64,0.0,True
+gyroPeakYaw[0],110,0,2521028,0,int64,0.0,True
+gyroPeakYaw[1],110,0,2521028,0,int64,0.0,True
+gyroPeakYaw[2],110,0,2521028,0,int64,0.0,True
+accSmooth[0],110,0,2521028,0,int64,0.0,True
+accSmooth[1],110,0,2521028,0,int64,0.0,True
+accSmooth[2],110,0,2521028,0,int64,0.0,True
+gyroADC[2],110,0,2521028,0,int64,0.0,True
+motor[0],110,0,2521028,0,int64,0.0,True
+servo[0],110,0,2521028,0,int64,0.0,True
+servo[2],110,0,2521028,0,int64,0.0,True
+servo[1],110,0,2521028,0,int64,0.0,True
+servo[4],110,0,2521028,0,int64,0.0,True
+servo[5],110,0,2521028,0,int64,0.0,True
+servo[6],110,0,2521028,0,int64,0.0,True
+servo[3],110,0,2521028,0,int64,0.0,True
+servo[7],110,0,2521028,0,int64,0.0,True
+servo[8],110,0,2521028,0,int64,0.0,True
+servo[10],110,0,2521028,0,int64,0.0,True
+servo[9],110,0,2521028,0,int64,0.0,True
+servo[11],110,0,2521028,0,int64,0.0,True
+servo[12],110,0,2521028,0,int64,0.0,True
+servo[13],110,0,2521028,0,int64,0.0,True
+servo[15],110,0,2521028,0,int64,0.0,True
+rcData[0],110,0,2521028,0,int64,0.0,True
+rcData[1],110,0,2521028,0,int64,0.0,True
+rcData[2],110,0,2521028,0,int64,0.0,True
+rcData[3],110,0,2521028,0,int64,0.0,True
+rcCommand[0],110,0,2521028,0,int64,0.0,True
+rcCommand[1],110,0,2521028,0,int64,0.0,True
+rcCommand[2],110,0,2521028,0,int64,0.0,True
+rcCommand[3],110,0,2521028,0,int64,0.0,True
+escRPM,102,0,2356629,0,int64,0.0,False
+escTemperature,102,0,2356629,0,int64,0.0,False
+rssi,110,0,2521028,0,int64,0.0,True
+failsafePhase (flags),102,0,2356629,0,object,0.0,False
+rxSignalReceived,102,0,2356629,0,int64,0.0,False
+hwHealthStatus,102,0,2356629,0,int64,0.0,False
+IMUTemperature,102,0,2356629,0,int64,0.0,False
+baroTemperature,102,0,2356629,0,int64,0.0,False

@@ -1,0 +1,65 @@
+concept,raw_column,matched_keyword,feature,flights_present,all_null_flights,total_rows,null_values,dtype,missing_percent,present_in_all_flights,flight_coverage_percent
+actuator_output,motor[0],motor[,motor[0],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[0],servo[,servo[0],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[1],servo[,servo[1],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[2],servo[,servo[2],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[3],servo[,servo[3],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[4],servo[,servo[4],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[5],servo[,servo[5],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[6],servo[,servo[6],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[7],servo[,servo[7],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[8],servo[,servo[8],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[9],servo[,servo[9],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[10],servo[,servo[10],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[11],servo[,servo[11],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[12],servo[,servo[12],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[13],servo[,servo[13],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[15],servo[,servo[15],110,0,2521028,0,int64,0.0,True,100.0
+actuator_output,servo[14],servo[,servo[14],110,0,2521028,2,int64,7.933271665368254e-05,True,100.0
+altitude,BaroAlt (cm),baroalt,BaroAlt (cm),110,0,2521028,0,int64,0.0,True,100.0
+altitude,GPS_altitude,altitude,GPS_altitude,110,8,2521028,164399,int64,6.521109642574379,True,100.0
+attitude,attitude[0],attitude,attitude[0],110,0,2521028,0,int64,0.0,True,100.0
+attitude,attitude[1],attitude,attitude[1],110,0,2521028,0,int64,0.0,True,100.0
+attitude,attitude[2],attitude,attitude[2],110,0,2521028,0,int64,0.0,True,100.0
+battery,vbat (V),vbat,vbat (V),110,0,2521028,0,float64,0.0,True,100.0
+battery,amperage (A),amperage,amperage (A),110,0,2521028,0,float64,0.0,True,100.0
+battery,energyCumulative (mAh),energy,energyCumulative (mAh),110,0,2521028,0,int64,0.0,True,100.0
+esc_motor_health,escRPM,esc,escRPM,102,0,2356629,0,int64,0.0,False,92.72727272727272
+esc_motor_health,escTemperature,esc,escTemperature,102,0,2356629,0,int64,0.0,False,92.72727272727272
+gps_position,GPS_coord[0],gps_coord,GPS_coord[0],110,8,2521028,164399,float64,6.521109642574379,True,100.0
+gps_position,GPS_coord[1],gps_coord,GPS_coord[1],110,8,2521028,164399,float64,6.521109642574379,True,100.0
+gps_position,GPS_home_lat,lat,GPS_home_lat,110,8,2521028,164399,float64,6.521109642574379,True,100.0
+gps_position,GPS_home_lon,lon,GPS_home_lon,110,8,2521028,164399,float64,6.521109642574379,True,100.0
+health_link,rssi,rssi,rssi,110,0,2521028,0,int64,0.0,True,100.0
+health_link,failsafePhase (flags),failsafe,failsafePhase (flags),102,0,2356629,0,object,0.0,False,92.72727272727272
+health_link,rxSignalReceived,rxsignal,rxSignalReceived,102,0,2356629,0,int64,0.0,False,92.72727272727272
+health_link,hwHealthStatus,hwhealth,hwHealthStatus,102,0,2356629,0,int64,0.0,False,92.72727272727272
+imu_accel,accSmooth[0],accsmooth,accSmooth[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_accel,accSmooth[1],accsmooth,accSmooth[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_accel,accSmooth[2],accsmooth,accSmooth[2],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroADC[0],gyro,gyroADC[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroADC[1],gyro,gyroADC[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroADC[2],gyro,gyroADC[2],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroRaw[0],gyro,gyroRaw[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroRaw[1],gyro,gyroRaw[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroRaw[2],gyro,gyroRaw[2],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakRoll[0],gyro,gyroPeakRoll[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakRoll[1],gyro,gyroPeakRoll[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakRoll[2],gyro,gyroPeakRoll[2],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakPitch[0],gyro,gyroPeakPitch[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakPitch[1],gyro,gyroPeakPitch[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakPitch[2],gyro,gyroPeakPitch[2],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakYaw[0],gyro,gyroPeakYaw[0],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakYaw[1],gyro,gyroPeakYaw[1],110,0,2521028,0,int64,0.0,True,100.0
+imu_gyro,gyroPeakYaw[2],gyro,gyroPeakYaw[2],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcData[0],rcdata,rcData[0],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcData[1],rcdata,rcData[1],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcData[2],rcdata,rcData[2],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcData[3],rcdata,rcData[3],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcCommand[0],rccommand,rcCommand[0],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcCommand[1],rccommand,rcCommand[1],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcCommand[2],rccommand,rcCommand[2],110,0,2521028,0,int64,0.0,True,100.0
+rc_input,rcCommand[3],rccommand,rcCommand[3],110,0,2521028,0,int64,0.0,True,100.0
+speed,GPS_speed (m/s),gps_speed,GPS_speed (m/s),110,8,2521028,164399,float64,6.521109642574379,True,100.0
+temperature,IMUTemperature,imutemperature,IMUTemperature,102,0,2356629,0,int64,0.0,False,92.72727272727272
+temperature,baroTemperature,barotemperature,baroTemperature,102,0,2356629,0,int64,0.0,False,92.72727272727272

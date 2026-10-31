@@ -1,0 +1,15 @@
+{
+    "hardware_config": "holybro",
+    "training_windows": 4078,
+    "validation_windows": 888,
+    "test_windows": 915,
+    "initial_numeric_features": 238,
+    "selected_features": 238,
+    "anomaly_threshold": 0.5030854047727523,
+    "threshold_validation_percentile": 95,
+    "train_flagged": 144,
+    "validation_flagged": 45,
+    "test_flagged": 40,
+    "test_anomaly_rate_pct": 4.371584699453552,
+    "test_flights": 18
+}
