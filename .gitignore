@@ -1,0 +1,32 @@
+﻿# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# Local datasets hosted on Hugging Face
+data/
+
+# Local databases
+*.db
+
+# DVC cache
+.dvc/cache/
+
+# IDE settings
+.vscode/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
